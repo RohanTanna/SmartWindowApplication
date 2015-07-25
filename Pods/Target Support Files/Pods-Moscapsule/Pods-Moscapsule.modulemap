@@ -1,0 +1,6 @@
+framework module Moscapsule {
+  umbrella header "Pods-Moscapsule-umbrella.h"
+
+  export *
+  module * { export * }
+}
